@@ -71,7 +71,7 @@ I'm a DevOps engineer working across **CI/CD, GitOps, Linux infrastructure, Kube
         <img src="assets/terraform-argocd-provisioning.png" width="100%">
       </a>
       <h3>Terraform ArgoCD Provisioning</h3>
-      <p>Repeatable infrastructure and GitOps provisioning that turns cluster setup into a version-controlled, automated workflow.</p>
+      <p>Terraform-managed ArgoCD Application provisioning with Jenkins-driven PLAN, APPLY, and DESTROY workflows across multiple environments.</p>
       <p>Terraform • Jenkins • ArgoCD • GitOps</p>
     </td>
   </tr>
@@ -81,7 +81,7 @@ I'm a DevOps engineer working across **CI/CD, GitOps, Linux infrastructure, Kube
         <img src="assets/observability-infrastructure-automation.png" width="100%">
       </a>
       <h3>Observability Infrastructure Automation</h3>
-      <p>Automated observability foundations for collecting, correlating, and exploring metrics, logs, and traces across infrastructure.</p>
+      <p>Automated multi-environment Grafana Alloy deployments using Ansible, with systemd resource protection and centralized log shipping to Loki.</p>
       <p>Ansible • Terraform • Grafana Alloy • Loki</p>
     </td>
     <td width="50%" align="center">
