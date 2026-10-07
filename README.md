@@ -95,7 +95,7 @@ I'm a DevOps engineer working across **CI/CD, GitOps, Linux infrastructure, Kube
   </tr>
 </table>
 
-## 💻 Languages & Technologies
+## 💻 Languages Across My Repositories
 
 <div align="center">
 
