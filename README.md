@@ -1,8 +1,6 @@
 <div align="center">
 
-# Furkan Cırıt
-
-### Senior DevOps Engineer · Site Reliability Engineering · Infrastructure Automation
+<img src="assets/Istanbul%20Twilight%20DevOps%20Portfolio%20Banner.png" alt="Furkan Cırıt — Senior Platform / DevOps Engineer" width="100%">
 
 **Building reliable infrastructure, automated delivery pipelines, and observable systems.**
 
